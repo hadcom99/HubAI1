@@ -96,6 +96,7 @@ const handleSubmit = async (e) => {
         })
     })
 
+    
     clearInterval(loadInterval)
     messageDiv.innerHTML = ' '
 
